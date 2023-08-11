@@ -1,18 +1,16 @@
 <hr>
-Projeto desenvolvido para o curso <strong>React - Desenvolvendo com JavaScript</strong> da Alura. \
+Projeto desenvolvido para o curso <strong>React - Desenvolvendo com JavaScript</strong> da Alura. <br>
 Explorando e conhecendo a biblioteca React
 
 <hr>
-Faça esse curso de React e: \
-Descreva as vantagens da utilização do React \
-Implemente componentes reativos \
-Investigue e analise mensagens de erro \
-Modifique e evolua componentes de acordo com a necessidade do projeto \
-Prototipe uma aplicação do zero até o deploy \
+Faça esse curso de React e: <br>
+Descreva as vantagens da utilização do React <br>
+Implemente componentes reativos <br>
+Investigue e analise mensagens de erro <br>
+Modifique e evolua componentes de acordo com a necessidade do projeto <br>
+Prototipe uma aplicação do zero até o deploy 
 <hr>
 
-
-<hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
