@@ -8,7 +8,7 @@ const Formulario = props => {
 
   const times = [
     "Programação",
-    "Front-End",
+    "Frontend",
     "Data Science",
     "Devops",
     "UX e Design",
