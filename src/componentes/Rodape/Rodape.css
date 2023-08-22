@@ -1,0 +1,20 @@
+.rodape {
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 85px 0;
+}
+
+.rodape .contato {
+    display: flex;
+    gap: 32px;
+}
+
+.rodape .logo {
+    width: 160px;
+}
+
+.rodape p {
+    color: white;
+}
