@@ -9,7 +9,7 @@ const Formulario = props => {
   const [nome, setNome] = useState("")
   const [cargo, setCargo] = useState("")
   const [imagem, setImagem] = useState("")
-  const [time, setTime] = useState(props.times[0])
+  const [time, setTime] = useState("")
 
   const aoSalvar = evento => {
     evento.preventDefault()
@@ -22,7 +22,7 @@ const Formulario = props => {
     setNome("")
     setCargo("")
     setImagem("")
-    setTime(props.times[0])
+    setTime("")
   }
 
   return (
